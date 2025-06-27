@@ -1,1 +1,1 @@
-# Here you can find some functions that are either depreciated or platform specific (e.g they are only exported by some specific c runtime library like msvc)
+# Here you can find functions that are either deprecated or platform-specific (e.g., only exported by certain C runtime libraries like MSVC).

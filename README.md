@@ -31,3 +31,4 @@ The code is written in **NASM syntax** and follows the **Windows x64 ABI** for 6
 - [ ] Add C/C++ header files for both **x86** and **x86-64** functions (for easier linking from C/C++ projects)
 - [ ] Benchmark against libc equivalents
 - [ ] Add unit tests (possibly in C)
+- [ ] Optimize the code further by avoiding only byte targeting instructions and using larger ones like qword
